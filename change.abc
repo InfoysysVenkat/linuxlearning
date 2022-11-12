@@ -1,0 +1,14 @@
+#!/bin/bash
+mkdir eee
+cd eee
+touch 1.txt 2.txt 3.txt 4.txt 5.txt
+ls 
+#chmod 700 /root/eee/2.txt
+mkdir iii
+cd iii
+touch 142.txt 2332.txt 433.txt 765.txt 778.txt
+#mv 1.txt 10.tx:wqt
+cp 142.txt 2332.txt 433.txt 765.txt 778.txt eee
+ls
+#chmod 700 /root/eee/iii/5.txt
+
